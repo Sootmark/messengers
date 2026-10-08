@@ -1,0 +1,15 @@
+plaso.tsv: what plaso (the log2timeline/plaso:20260720 Docker image) reads
+from tests/fixtures/plaso/skype_main.db (gunzipped) with its sqlite/skype
+plugin (psort -a -o json_line), one line per event, written by plaso_tsv.py
+(its docstring and FIELDS list the columns). Written from plaso's output,
+not from this crate.
+
+The input layout, on a host with Docker:
+
+    /tmp/sbx/skype/in/skype_main.db
+
+The commands:
+
+    sudo docker run --rm -v /tmp/sbx/skype:/data log2timeline/plaso:20260720 log2timeline --status_view none -q --parsers 'sqlite/skype' --storage-file /data/out.plaso /data/in
+    sudo docker run --rm -v /tmp/sbx/skype:/data log2timeline/plaso:20260720 psort --status_view none -q -a -o json_line -w /data/out.jsonl /data/out.plaso
+    python3 -I tests/oracle/plaso_tsv.py out.jsonl > tests/oracle/plaso.tsv

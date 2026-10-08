@@ -1,0 +1,24 @@
+skype_main.db	skype:event:account	Profile Change Time	1375219328000000	1	Gen Beringer		genberinger@gmail.com	us
+skype_main.db	skype:event:call	Attempt Time	1372716737000000	110	gen.beringer	european.bbq.competitor	646	ACCEPTED	False
+skype_main.db	skype:event:call	End Time	1372717383000000	110	gen.beringer	european.bbq.competitor	646	ACCEPTED	False
+skype_main.db	skype:event:call	Start Time	1372716737000000	110	gen.beringer	european.bbq.competitor	646	ACCEPTED	False
+skype_main.db	skype:event:chat	Recorded Time	13727168620000000	Gen Beringer <gen.beringer>	european.bbq.competitor	European Competitor | where do I get it from?	<sms alt="f you want I can copy some documents for you, if you can pay it... ;)"><type>2</type><status>6</status><failurereason>0</failurereason><targets><target status="6">+34123456789</target></targets><price>0.116 EUR</price><body><chunk id="0">f you want I can copy some documents for you, if you can pay it... ;)</chunk><untilnext>72</untilnext></body><encoded_body>f you want I can copy some documents for you, if you can pay it... ;)</encoded_body><sendtimestamp>13727168620</sendtimestamp></sms>
+skype_main.db	skype:event:chat	Recorded Time	1375219588000000	Gen Beringer <gen.beringer>	european.bbq.competitor	european.bbq.competitor | yt?	yt?
+skype_main.db	skype:event:chat	Recorded Time	1375219631000000	Gen Beringer <gen.beringer>	european.bbq.competitor	European Competitor | need to know if you got it..	need to know if you got it this time.
+skype_main.db	skype:event:chat	Recorded Time	1375219647000000	Gen Beringer <gen.beringer>	european.bbq.competitor	European Competitor	Hi European Competitor, I&apos;d like to add you as a contact. Gen Beringer
+skype_main.db	skype:event:chat	Recorded Time	1375219666000000	European Competitor <european.bbq.competitor>	gen.beringer	European Competitor | where do I get it from?	
+skype_main.db	skype:event:chat	Recorded Time	1375219676000000	European Competitor <european.bbq.competitor>	gen.beringer	European Competitor | where do I get it from?	I&apos;m here
+skype_main.db	skype:event:chat	Recorded Time	1375219684000000	European Competitor <european.bbq.competitor>	gen.beringer	European Competitor | where do I get it from?	where do I get it from?
+skype_main.db	skype:event:chat	Recorded Time	1375219811000000	Gen Beringer <gen.beringer>	european.bbq.competitor	European Competitor | where do I get it from?	<a href="https://www.dropbox.com/s/3t95y5d8j64azsj/Recipes.docx">https://www.dropbox.com/s/3t95y5d8j64azsj/Recipes.docx</a>
+skype_main.db	skype:event:chat	Recorded Time	1375219816000000	Gen Beringer <gen.beringer>	european.bbq.competitor	European Competitor | where do I get it from?	but give me a minute....
+skype_main.db	skype:event:chat	Recorded Time	1375219921000000	European Competitor <european.bbq.competitor>	gen.beringer	European Competitor | where do I get it from?	i got it
+skype_main.db	skype:event:chat	Recorded Time	1375219940000000	Gen Beringer <gen.beringer>	european.bbq.competitor	European Competitor | where do I get it from?	try not to spill coffee on it this time
+skype_main.db	skype:event:chat	Recorded Time	1375219957000000	European Competitor <european.bbq.competitor>	gen.beringer	European Competitor | where do I get it from?	fer christ sake, it was an accident!
+skype_main.db	skype:event:chat	Recorded Time	1375219979000000	Gen Beringer <gen.beringer>	european.bbq.competitor	European Competitor | where do I get it from?	whatever.
+skype_main.db	skype:event:chat	Recorded Time	1375219988000000	Gen Beringer <gen.beringer>	european.bbq.competitor	European Competitor | where do I get it from?	later
+skype_main.db	skype:event:chat	Recorded Time	1382887759000000	European Competitor <european.bbq.competitor>	gen.beringer, echo123	European Competitor, Echo123	He is our new employee
+skype_main.db	skype:event:sms	Recorded Time	1372716862000000	+34123456789	If you want I can copy some documents for you, if you can pay it... ;)
+skype_main.db	skype:event:transferfile	Accept Time	1382651375000000	1094	gen.beringer	Gen Beringer	european.bbq.competitor	European BBQ	8	secret-project.pdf	/Users/gberinger/Desktop/secret-project.pdf	69986
+skype_main.db	skype:event:transferfile	End Time	1382651377000000	1094	gen.beringer	Gen Beringer	european.bbq.competitor	European BBQ	8	secret-project.pdf	/Users/gberinger/Desktop/secret-project.pdf	69986
+skype_main.db	skype:event:transferfile	Start Time	1382651372000000	1090	gen.beringer	Gen Beringer	european.bbq.competitor	European BBQ	2	secret-project.pdf	/Users/gberinger/Desktop/secret-project.pdf	69986
+skype_main.db	skype:event:transferfile	Start Time	1382651375000000	1094	gen.beringer	Gen Beringer	european.bbq.competitor	European BBQ	8	secret-project.pdf	/Users/gberinger/Desktop/secret-project.pdf	69986
